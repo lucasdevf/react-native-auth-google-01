@@ -2,6 +2,7 @@
   "expo": {
     "name": "react-native-oauth2-01",
     "slug": "react-native-oauth2-01",
+    "scheme": "react-native-oauth2-01",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
